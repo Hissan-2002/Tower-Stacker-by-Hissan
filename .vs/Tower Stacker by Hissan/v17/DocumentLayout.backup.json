@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Tower Stacker by Hissan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B6829A-8066-7642-1C26-5B32D299CC17}|Assembly-CSharp.csproj|c:\\users\\hp\\tower stacker by hissan\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B6829A-8066-7642-1C26-5B32D299CC17}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B6829A-8066-7642-1C26-5B32D299CC17}|Assembly-CSharp.csproj|C:\\Users\\HP\\Tower Stacker by Hissan\\assets\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B6829A-8066-7642-1C26-5B32D299CC17}|Assembly-CSharp.csproj|solutionrelative:assets\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Tower Stacker by Hissan\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\HP\\Tower Stacker by Hissan\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:50:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TowerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Tower Stacker by Hissan\\Assets\\TowerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TowerManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Tower Stacker by Hissan\\Assets\\TowerManager.cs",
+              "RelativeToolTip": "Assets\\TowerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:50:42.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
